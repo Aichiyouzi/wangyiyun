@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<link rel="stylesheet" href="main/css/public.css" />
+		<link rel="stylesheet" type="text/css" href="main/css/index.css"/>
+		<link rel="stylesheet" type="text/css" href="main/css/iconfont.css"/>
+	</head>
+	<body>
+		<!--开始的动画-->
+		<div class="loading" id="loadingImage">
+			<span class="circle">
+				<img src="main/img/loading-Home.gif" alt="moveLogo" />
+			</span>
+		</div>
+		<!--导航幅-->
+		<div class="navBar">
+			<div class="navBarLeft">
+				<a class="navBarLeftLogo" href="javascript:;">fir.im</span>
+			</div>
+			<nav class="navBarRight">
+				<span class="iconfont">&#xe6de;</span>
+				<ul class="navList">
+					<li>
+						<a href="index.html">首页</a>
+						<i class="iconfont">&#xe60c;</i>
+					</li>
+					<li>
+						<a href="price/price.html">价格</a>
+						<i class="iconfont">&#xe60c;</i>
+					</li>
+					<li>
+						<a href="index.html">文档</a>
+						<i class="iconfont">&#xe60c;</i>
+					</li>
+					<li>
+						<a href="tools/tools.html">工具</a>
+						<i class="iconfont">&#xe60c;</i>
+					</li>
+					<li>
+						<a href="helpCenter/helpCenter.html">帮助中心</a>
+						<i class="iconfont">&#xe60c;</i>
+					</li>
+					<li>
+						<a href="login/login.html">登录</a>
+						<i class="iconfont">&#xe60c;</i>
+					</li>
+					<li>
+						<a href="registry/registry.html">注册</a>
+					</li>
+				</ul>
+				<span class="iconfont">&#xe6ba;</span>
+			</nav>
+		</div>
+		<!--主体内容区-->
+		<ul class="content">
+			<!--第一屏-->
+			<li class="screen screen-1">
+			<!--飞机-->
+				<div class="plane" id="airplane">
+					<img src="main/img/plane.svg" alt="plane" />
+					<div class="propeller">
+						<img src="main/img/propeller.svg" alt="propeller" />
+					</div>
+				</div>
+			<!--动态文字-->
+			<div class="AppHost" id="wenzi"></div>
+			</li>-->
+			<!--第二屏-->
+			<li class="screen screen-2">
+				<div class="product" id="productRotate">
+					<div class="row">
+						<div class="bg"></div>
+						<div class="text">
+							<div class="font above">
+								<p class="icon iconfont">&#xe6ec;</p>
+								<p class="topic">内侧托管</p>
+								<p class="explain">一键上传应用，扫描二维码下载</p>
+							</div>
+							<div class="font below">
+								<p class="icon iconfont">&#xe783;</p>
+								<p class="topic">权限访问</p>
+								<p class="explain">灵活的访问权限控制，可添加团队成员共同上传、管理应用</p>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="bg"></div>
+						<div class="text">
+							<div class="font above" id="about">
+								<p class="icon iconfont">&#xe783;</p>
+								<p class="topic">应用合并</p>
+								<p class="explain">扫描同一个二维码，根据设备类型自动下载对应的 iOS或 Android 应用。</p>
+							</div>
+							<div class="font below">
+								<p class="icon iconfont">&#xe7ce;</p>
+								<p class="topic">开放 API</p>
+								<p class="explain">使用 fir.im 的 API 接口可以方便搭建Jenkins 等自动集成的系统</p>
+							</div>
+						</div>
+					</div>
+					<div class="row">
+						<div class="bg"></div>
+						<div class="text">
+							<div class="font above">
+								<p class="icon iconfont">&#xe7ce;</p>
+								<p class="topic">命令行工具</p>
+								<p class="explain">fir-cli 可以通过命令行查看、上传、编译、打包应用</p>
+							</div>
+							<div class="font below">
+								<p class="icon iconfont">&#xe621;</p>
+								<p class="topic">Web Hooks</p>
+								<p class="explain">应用更新时团队成员会收到更新邮件，添加Web Hooks的第三方平台也会有更新消息提醒</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</li>
+			<!--第三屏-->
+			<li class="screen screen-3">
+				<div class="boxes">
+					<div class="row">
+						<div class="words">
+							<p class="describe">让测试用户快速获取 UDID 并发送给开发者</p>
+							<p class="symbol">︸</p>
+						</div>
+						<section class="wrap">
+							<div class="box">
+								<div>
+									<div class="foldLeft"></div>
+									<div class="foldRight"></div>
+								</div>
+								<div></div>
+								<div><i class="iconfont">&#xe7ce;</i></div>
+								<div>GET<br>UDID4</div>
+								<div></div>
+								<div></div>
+							</div>
+						</section>
+					</div>
+					<div class="row">
+						<div class="words">
+							<p class="describe">读取手机日志，快速定位无法安装的原因</p>
+							<p class="symbol">︸</p>
+						</div>
+						<section class="wrap">
+							<div class="box">
+								<div>
+									<div class="foldLeft"></div>
+									<div class="foldRight"></div>
+								</div>
+								<div></div>
+								<div><i class="iconfont">&#xe7ce;</i></div>
+								<div>GET<br>UDID4</div>
+								<div></div>
+								<div></div>
+							</div>
+						</section>
+					</div>
+					
+					<div class="row">
+						<div class="words">
+							<p class="describe">添加 SDK，灵活实现应用的检测更新功能</p>
+							<p class="symbol">︸</p>
+						</div>
+						<section class="wrap">
+							<div class="box">
+								<div>
+									<div class="foldLeft"></div>
+									<div class="foldRight"></div>
+								</div>
+								<div></div>
+								<div><i class="iconfont">&#xe7ce;</i></div>
+								<div>GET<br>UDID4</div>
+								<div></div>
+								<div></div>
+							</div>
+						</section>
+					</div>
+					
+					<div class="row">
+						<div class="words">
+							<p class="describe">快速检测本机在 fir.im 的上传下载速度</p>
+							<p class="symbol">︸</p>
+						</div>
+						<section class="wrap">
+							<div class="box">
+								<div>
+									<div class="foldLeft"></div>
+									<div class="foldRight"></div>
+								</div>
+								<div></div>
+								<div><i class="iconfont">&#xe7ce;</i></div>
+								<div>GET<br>UDID4</div>
+								<div></div>
+								<div></div>
+							</div>
+						</section>
+					</div>
+				</div>
+			</li>
+			
+			<!--第四屏-->
+			<li class="screen screen-4">
+				<section class="users">
+					<p class="title">What Our Users Say</p>
+					<div class="users-words">
+						<div class="address jumei">
+							<span>聚美</span>
+							<p class="introduce">就像送自己的孩子去托儿所一样，安全、便捷，fir.im 将我们这些“父母”从发包内测中解放！期待越办越好，小美会一如既往支持 fir.im！</p>
+						</div>
+						<div class="address jiecao">
+							<span>节操</span>
+							<p class="introduce">节操精选的公司内部测试到小范围用户群灰度测试，fir.im 极大方便帮我们解决了安装包传输的问题；安全放心、操作便捷、界面简洁！</p>
+						</div>
+						<div class="address jingdong">
+							<span>京东</span>
+							<p class="introduce">fir.im 解决了京东阅读客户端每日测试发布的难题，大大减轻了跨地域开发测试的难度，fir.im 加油！</p>
+						</div>
+						<div class="address baoyang">
+							<span>保养</span>
+							<p class="introduce">e 保养一直在用 fir.im 进行测试托管分发，喜欢 fir.im 的 UI 和用户体验设计，硅谷范儿的产品！</p>
+						</div>
+						<div class="address chu">
+							<span>厨</span>
+							<p class="introduce">fir.im 与下厨房一样，都在 UI 和 UE 上下功夫，将开发者工具做到简洁极致，提高效率的同时也令人赏心悦目。</p>
+						</div>
+					</div>
+				</section>
+			</li>
+			
+			<!--第五屏-->
+			<li class="screen screen-5">
+				<div class="firim">
+					<div id="firshow"></div>
+				<div>
+			</li>
+		</ul>
+		<script src="main/js/jquery-1.12.4.min.js"></script>
+		<script src="main/js/index.js"></script>
+	</body>
+</html>
