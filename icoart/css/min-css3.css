@@ -1,0 +1,363 @@
+@keyframes one {
+	0% {
+		transform: scale(1);
+	}
+	50% {
+		transform: scale(1.1);
+	}
+	100% {
+		transform: scale(1);
+	}
+}
+
+@keyframes cDown {
+	0% {
+		opacity: .1;
+	}
+	20% {
+		opacity: .3;
+	}
+	40% {
+		opacity: .6;
+	}
+	60% {
+		opacity: .3;
+	}
+	80% {
+		opacity: .1;
+	}
+}
+
+@keyframes main-child1-logo {
+	0% {
+		transform: translateY(-100%);
+	}
+	100% {
+		transform: translateY(0);
+	}
+}
+
+@keyframes main-child1-shadow {
+	0% {
+		transform: translateY(100%);
+		opacity: 0;
+	}
+	100% {
+		transform: translateY(0);
+		opacity: 1;
+	}
+}
+
+@keyframes main-child1-logo2 {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+@keyframes min-child2-li {
+	0% {
+		transform: translateY(-50px);
+		opacity: 0;
+	}
+	100% {
+		transform: translateY(0px);
+		opacity: 1;
+	}
+}
+
+@keyframes min-child2-msg {
+	0% {
+		transform: translateY(50px);
+		visibility: hidden;
+		opacity: 0;
+	}
+	100% {
+		transform: translateY(0px);
+		visibility: visible;
+		opacity: 1;
+	}
+}
+
+@keyframes min-childBg2-logo {
+	0% {
+		transform: scale(1);
+	}
+	50% {
+		transform: scale(1.2);
+	}
+	100% {
+		transform: scale(1);
+	}
+}
+
+@keyframes childBg4-img1 {
+	0% {
+		transform: translateX(0);
+	}
+	25% {
+		transform: translateX(-10%);
+	}
+	50% {
+		transform: translateX(0);
+	}
+	70% {
+		transform: translateX(10%);
+	}
+	100% {
+		transform: translateX(0);
+	}
+}
+
+.min .min-child1.in .content .logo-center {
+	animation: main-child1-logo 1s cubic-bezier(0.62, -0.14, 0.6, 1.2) 0s both;
+}
+
+.min .min-child1.in .content .center {
+	animation: main-child1-logo2 1.2s cubic-bezier(0.62, -0.14, 0.6, 1.45) .6s both;
+}
+
+.min .min-child1.in .content .show {
+	animation: main-child1-logo2 1.2s cubic-bezier(0.62, -0.14, 0.6, 1.45) 0s both;
+}
+
+#cDownPull {
+	animation: cDown 3s infinite 0s linear;
+}
+
+.min-child2 .child-bg1 {
+	animation: one 32s infinite 0s linear;
+}
+
+.min .min-child2 .list li.lisIn {
+	animation: min-child2-li 1.5s ease both;
+}
+
+.min .min-child2 .list li .msgIn {
+	animation: min-child2-msg 0.6s ease both;
+}
+
+.min .min-child2 .child-bg {
+	opacity: 0;
+	transition-duration: .6s;
+	-webkit-transition-duration: .6s;
+}
+
+.min .min-child2 .child-bg.in {
+	opacity: 1;
+	transition-duration: .3s;
+	-webkit-transition-duration: .3s;
+}
+
+.min .min-child2 .child-bg3 .logo {
+	animation: min-childBg2-logo 18s linear infinite 0s both;
+}
+
+.min .min-child2 .child-bg4 .img1 {
+	animation: childBg4-img1 20s linear infinite both;
+}
+
+.min .min-child3.in .content .m-title {
+	animation: main-child3-title 1s linear 0s both;
+	-webkit-animation: main-child3-title 1s linear 0s both;
+}
+
+.min .min-child3.in .img {
+	animation: main-child3-img 1s linear .4s both;
+	-webkit-animation: main-child3-img 1s linear .4s both;
+}
+
+.min .min-child3.in .content .pointer1 {
+	animation: pointer-right .6s linear .8s both;
+	-webkit-animation: pointer-right .6s linear .8s both;
+}
+
+.min .min-child3.in .content .pointer2 {
+	animation: pointer-right .6s linear 1s both;
+	-webkit-animation: pointer-right .6s linear 1s both;
+}
+
+.min .min-child3.in .content .pointer3 {
+	animation: pointer-right .6s linear 1.2s both;
+	-webkit-animation: pointer-right .6s linear 1.2s both;
+}
+
+.min .min-child3.in .content .pointer4 {
+	animation: pointer-left .6s linear .8s both;
+	-webkit-animation: pointer-left .6s linear .8s both;
+}
+
+.min .min-child3.in .content .pointer5 {
+	animation: pointer-left .6s linear 1s both;
+	-webkit-animation: pointer-left .6s linear 1s both;
+}
+
+.min .min-child3.in .content .m-info {
+	animation: main-child3-img 1s linear 1.4s both;
+	-webkit-animation: main-child3-img 1s linear 1.4s both;
+}
+
+.min .min-child3.in .content .m-btn {
+	animation: main-child3-img 1s linear 1.6s both;
+	-webkit-animation: main-child3-img 1s linear 1.6s both;
+}
+
+.min .min-child3 .child.in {
+	transition-duration: 2s;
+	-webkit-transition-duration: 2s;
+	opacity: 1;
+	transform: rotate(0deg) translateX(0);
+}
+
+.min .min-child3 .m-info .info.in {
+	transition-duration: 2s;
+	-webkit-transition-duration: 2s;
+	opacity: 1;
+	transform: rotate(0deg) translateX(0);
+}
+
+.min .min-child3 .child.in .img {
+	animation: main-child3-img 1s linear .4s both;
+	-webkit-animation: main-child3-img 1s linear .4s both;
+}
+
+.min .min-child3 .child.in .content .pointer1 {
+	animation: pointer-right .6s linear .8s both;
+	-webkit-animation: pointer-right .6s linear .8s both;
+}
+
+.min .min-child3 .child.in .content .pointer2 {
+	animation: pointer-right .6s linear 1s both;
+	-webkit-animation: pointer-right .6s linear 1s both;
+}
+
+.min .min-child3 .child.in .content .pointer3 {
+	animation: pointer-right .6s linear 1.2s both;
+	-webkit-animation: pointer-right .6s linear 1.2s both;
+}
+
+.min .min-child3 .child.in .content .pointer4 {
+	animation: pointer-left .6s linear .8s both;
+	-webkit-animation: pointer-left .6s linear .8s both;
+}
+
+.min .min-child3 .child.in .content .pointer5 {
+	animation: pointer-left .6s linear 1s both;
+	-webkit-animation: pointer-left .6s linear 1s both;
+}
+
+.min .min-child3 .child.in .content .m-info {
+	animation: main-child3-img 1s linear 1.4s both;
+	-webkit-animation: main-child3-img 1s linear 1.4s both;
+}
+
+.min .min-child3 .child.in .content .m-btn {
+	animation: main-child3-img 1s linear 1.6s both;
+	-webkit-animation: main-child3-img 1s linear 1.6s both;
+}
+
+.min .min-child3 .left-out {
+	transition-duration: 2s;
+	-webkit-transition-duration: 2s;
+	transform: rotate(-10deg) translateX(-200%);
+	opacity: 0;
+}
+
+.min .min-child3 .left-in {
+	transition-duration: 2s;
+	-webkit-transition-duration: 2s;
+	transform: rotate(10deg) translateX(200%);
+	opacity: 0;
+}
+
+.min .min-child3 .right-out {
+	transition-duration: 2s;
+	-webkit-transition-duration: 2s;
+	transform: rotate(-10deg) translateX(200%);
+}
+
+@keyframes pointer-left {
+	0% {
+		opacity: 0;
+		transform: translateX(-20px);
+	}
+	100% {
+		opacity: 1;
+		transform: translateX(0px);
+	}
+}
+
+@-webkit-keyframes pointer-left {
+	0% {
+		opacity: 0;
+		-webkit-transform: translateX(-20px);
+	}
+	100% {
+		opacity: 1;
+		-webkit-transform: translateX(0px);
+	}
+}
+
+@keyframes pointer-right {
+	0% {
+		opacity: 0;
+		transform: translateX(20px);
+	}
+	100% {
+		opacity: 1;
+		transform: translateX(0px);
+	}
+}
+
+@-webkit-keyframes pointer-right {
+	0% {
+		opacity: 0;
+		-webkit-transform: translateX(20px);
+	}
+	100% {
+		opacity: 1;
+		-webkit-transform: translateX(0px);
+	}
+}
+
+@keyframes main-child3-img {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+@-webkit-keyframes main-child3-img {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+@keyframes main-child3-title {
+	0% {
+		transform: translateY(-100%);
+		opacity: 0;
+	}
+	100% {
+		transform: translateY(0px);
+		opacity: 1;
+	}
+}
+
+@-webkit-keyframes main-child3-title {
+	0% {
+		-webkit-transform: translateY(-100%);
+		opacity: 0;
+	}
+	100% {
+		-webkit-transform: translateY(0px);
+		opacity: 1;
+	}
+}
