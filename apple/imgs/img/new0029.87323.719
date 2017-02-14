@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<!--[if IE 9 ]><html class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html><!--<![endif]-->
+<head>
+	    
+    <meta charset="utf-8">
+        <!--[if IE]>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <![endif]-->
+    
+    <link rel="canonical" href="http://www.takeitapp.co/en" />
+
+    <title>Take it | Free Polaroid prints from your iPhone.</title>
+    <meta name="description" content="Print your photos from your iPhone. Polaroid style. Worldwide delivery.">
+
+    <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    <!-- SOCIAL DATAS -->
+
+    <!-- FACEBOOK -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Take it | Free Polaroid prints from your iPhone.">
+    <meta property="og:url" content="http://www.takeitapp.co/en">
+    <meta property="og:image" content="http://www.takeitapp.co/assets/medias/facebook-share.png">
+    <meta property="og:site_name" content="Take It">
+    <meta property="og:description" content="Print your photos from your iPhone. Polaroid style. Worldwide delivery.">
+
+    <!-- TWITTER -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@takeitapp">
+    <meta name="twitter:title" content="Take it | Free Polaroid prints from your iPhone.">
+    <meta name="twitter:description" content="Print your photos from your iPhone. Polaroid style. Worldwide delivery.">
+    <meta name="twitter:image:src" content="http://www.takeitapp.co/medias/facebook-share.jpg">
+
+    <!-- FAVICONS -->
+    <link rel="icon" type="image/png" href="/favicon.ico">
+
+    <link rel="icon" type="image/png" href="/medias/favicons/favicon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/medias/favicons/favicon-57x57.png"/>
+    <link rel="apple-touch-icon" sizes="60x60" href="/medias/favicons/favicon-60x60.png"/>
+    <link rel="apple-touch-icon" sizes="72x72" href="/medias/favicons/favicon-72x72.png"/>
+    <link rel="apple-touch-icon" sizes="76x76" href="/medias/favicons/favicon-76x76.png"/>
+    <link rel="apple-touch-icon" sizes="114x114" href="/medias/favicons/favicon-114x114.png"/>
+    <link rel="apple-touch-icon" sizes="120x120" href="/medias/favicons/favicon-120x120.png"/>
+    <link rel="apple-touch-icon" sizes="144x144" href="/medias/favicons/favicon-144x144.png"/>
+    <link rel="apple-touch-icon" sizes="152x152" href="/medias/favicons/favicon-152x152.png"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="/medias/favicons/favicon-180x180.png"/>
+    <link rel="icon" type="image/png" href="/medias/favicons/apple-touch-16x16.png" sizes="16x16"/>
+    <link rel="icon" type="image/png" href="/medias/favicons/apple-touch-32x32.png" sizes="32x32"/>
+    <link rel="icon" type="image/png" href="/medias/favicons/apple-touch-96x96.png" sizes="96x96"/>
+    <link rel="icon" type="image/png" href="/medias/favicons/apple-touch-160x160.png" sizes="160x160"/>
+    <link rel="icon" type="image/png" href="/medias/favicons/apple-touch-192x192.png" sizes="192x192"/>
+    <meta name="msapplication-TileColor" content="#da532c"/>
+    <meta name="msapplication-TileImage" content="/medias/favicons/ms-tile-44x44.png"/>
+
+</head>
+<body >
+<div class="svg-paths-container">
+<svg xmlns="http://www.w3.org/2000/svg"><defs><path id="a" d="M0 0h1706.67v341.104H0z"/><path id="a" d="M0-.002h164.86v30.004H0z"/></defs><symbol id="arrow_bottom" viewBox="0 0 48.7 35.3"><path d="M24.8 27.9l15.3-14.8-4.8-4.7-10.5 10.1L14.4 8.4l-4.8 4.7 15.2 14.8"/></symbol><symbol id="buildings-1" viewBox="0 0 215.424 42.497"><path d="M209.496 35.927v6.032h-2.066V28.802h-3.862V24.94h-4.49v6.916l-2.29-2.29h-3.28v2.65l-7.725-3.794v-7.455h-4.13v4.49h-2.696v2.965l-2.515 11.382-2.56-2.56V15.427h-7.08v1.77h-1.77v-1.264h-1.265v1.77h-2.53V11.67l-1-5.834-1.15 5.985v6.01h-2.402v-3.287h-9.99v3.162h-2.656v6.828h-6.198V0h-7.587v24.912h-3.54V10.37h-7.082v14.542h-2.404v-4.066l-4.67-3.015h-7.726l-4.676 2.687v4.65H98.64v-2.638l-6.788 1.14-.006 1.496h-6.694l-5.986-5.835v3.18h-4.12l-2.077-2.444v5.732h-4.68v-12.52h-4.426V25.8h-2.782V7.208h-7.967v15.05h-5.31V7.968h-6.703v31.698l-1.52-.077v-4.554H36.8v5.06h-2.53V28.84l-1.01-5.944h-.002l-1.517 5.818v6.892H21.183l-2.846 2.845h-5.058V24.668h-8.22v13.53H2.783v-3.92H0v8.22h40.155l.99-.006h132.738v.007h41.54v-6.57"/></symbol><symbol id="buildings-2" viewBox="0 0 1127.785 307.226"><clipPath id="b"><use xlink:href="#a" overflow="visible"/></clipPath><g clip-path="url(#b)"><path d="M1099.354 292.776l-17.625-17.625h-26.75V224h-92v23h-62v-19h-17.413l-14.588 14.205V146h-110v87H723.37c0-149-63.484-233-63.484-233H631.98v211h-16V84h-65v128.785c-19 0-24 13.937-24 13.937v-110.97l-84 33.55V228h-12v-32h-107v43h-10v-28h-60v25H150.91l-.385 30.5h-47.07v18.05H32.383L0 305.167h141.014l9.82.004 898.7 2.057h78.25l-.056-14.45h-28.374z"/></g></symbol><symbol id="buildings-3" viewBox="0 0 151.875 30"><g opacity=".15"><clipPath id="b"><use xlink:href="#a" overflow="visible"/></clipPath><path clip-path="url(#b)" d="M151.875 29.934V24.87h-2.215l-.363-7.086h-5.523v2.025h-2.023v-1.52h-1.52v2.025h-2.783v-6.86l-1.18-6.67-1.35 6.844v6.938h-2.785V16.77H120.74v3.545h-3.036v7.848h-7.088V.065h-8.606v28.603h-4.05V11.962h-8.1v16.706h-2.785v-4.72l-5.357-3.38h-8.836l-5.298 3.003v5.35h-1.77v-3.046l-7.77 1.32-.015 1.727h-7.654l-6.84-6.703v3.667H38.82l-2.37-2.826v6.623h-5.315V15.254h-5.063V29.68h-3.29V8.42H13.67v17.21H7.593v-3.795H0l.004 8.1"/></g></symbol><symbol id="cloud-1" viewBox="0 0 42.539 13.954"><path d="M28.586 0c-5.257 0-9.83 2.91-12.21 7.205-1.178-.703-2.55-1.115-4.022-1.115-1.845 0-3.54.64-4.88 1.705-.388-.076-.788-.118-1.198-.118C2.81 7.677 0 10.487 0 13.954h42.538C42.54 6.248 36.295 0 28.587 0z"/></symbol><symbol id="cloud-2" viewBox="0 0 39.22 12.24"><path d="M32.942 5.963c-1.212 0-2.34.35-3.3.944C27.66 2.823 23.486 0 18.64 0 14.074 0 10.1 2.504 7.996 6.208c-.547-.156-1.123-.245-1.72-.245C2.81 5.963 0 8.773 0 12.24h39.218c.002-3.467-2.81-6.277-6.276-6.277z"/></symbol><symbol id="cloud-3" viewBox="0 0 36.261 12.238"><path d="M29.984 5.962c-.848 0-1.654.17-2.393.475C25.526 2.605 21.477 0 16.815 0 11.16 0 6.414 3.84 5.01 9.05c-.453-.212-.952-.338-1.484-.338C1.58 8.712 0 10.292 0 12.238H36.26c0-3.466-2.81-6.276-6.276-6.276z"/></symbol><symbol id="facebook" viewBox="0 0 29.7 26.6"><path d="M28.7 3v21.2c0 1.3-1.1 2.4-2.4 2.4H20V15.8h3.8l.5-3.2H20V10c0-1 .9-1.8 1.8-1.8h1.4V4.9H20c-3.2 0-4.3 1.6-4.3 4.3v3.2h-3.2v3.2h3.2v10.8H5.1c-1.3 0-2.4-1.1-2.4-2.4V3C2.7 1.7 3.8.6 5.1.6h21.2c1.3 0 2.4 1.1 2.4 2.4z"/></symbol><symbol id="instagram" viewBox="0 0 29.2 29.1"><path d="M4.4.4h20.8c2 0 3.6 1.5 3.6 3.6v20.8c0 2.1-1.6 3.6-3.6 3.6H4.4c-2 0-3.6-1.5-3.6-3.6V4C.8 1.8 2.4.4 4.4.4zm16.8 3.1c-.7 0-1.3.6-1.3 1.3v3c0 .7.6 1.3 1.3 1.3h3.2c.7 0 1.3-.6 1.3-1.3v-3c0-.7-.6-1.3-1.3-1.3h-3.2zm4.4 8.7h-2.5c.2.8.4 1.6.4 2.4 0 4.7-3.9 8.4-8.7 8.4-4.8 0-8.7-3.8-8.7-8.4 0-.8.1-1.6.4-2.4H3.9V24c0 .6.5 1.1 1.1 1.1h19.5c.6 0 1.1-.5 1.1-1.1V12.2zM14.8 8.9c-3.1 0-5.6 2.4-5.6 5.4 0 3 2.5 5.4 5.6 5.4 3.1 0 5.6-2.4 5.6-5.4 0-3-2.5-5.4-5.6-5.4z"/></symbol><symbol id="submit-arrow" viewBox="0 0 28 24"><path d="M.6 23.7L28 12 .6.3v9.1L20.2 12 .6 14.6"/></symbol><symbol id="takeit-logo" viewBox="0 0 95 28"><g><path d="M9.9 22.5c.8 0 1.8-.2 2.9-.7v4.9c-.8.4-1.6.7-2.3.8-.7.2-1.6.3-2.6.3-2 0-3.5-.6-4.4-1.7-.9-1.1-1.4-2.8-1.4-5.1v-8H0v-2.7l2.7-2.1L4.3 4h4v3.9h4.3V13H8.3v7.6c0 1.2.5 1.9 1.6 1.9zM26.5 27.5l-1.2-2.6h-.1c-.8 1.1-1.7 1.9-2.5 2.3-.9.4-1.9.6-3.3.6-1.7 0-3-.6-3.9-1.7-1-1.1-1.4-2.7-1.4-4.7 0-2.1.7-3.6 2-4.7 1.3-1 3.2-1.6 5.7-1.7l2.9-.1v-.3c0-1.6-.7-2.4-2.1-2.4-1.3 0-2.9.5-4.9 1.5l-1.8-4.5C18 8 20.5 7.4 23.7 7.4c2.3 0 4 .6 5.2 1.9 1.2 1.2 1.9 3 1.9 5.2v12.8h-4.3zM22 23c.7 0 1.4-.3 1.9-.8s.8-1.2.8-2v-1.5l-1.4.1c-2 .1-3 .9-3 2.5-.1 1.1.5 1.7 1.7 1.7zM39.8 16.5c.7-1.3 1.4-2.3 1.9-3l4-5.5h6.8l-6.1 8.3 6.5 11.3h-7l-3.9-7-2 1.7v5.3h-6.1V.6H40v10.6c0 1.8-.1 3.6-.3 5.3h.1zM62.4 27.8c-2.9 0-5.2-.9-6.8-2.6-1.6-1.7-2.4-4.2-2.4-7.4 0-3.3.8-5.8 2.3-7.6 1.5-1.8 3.6-2.7 6.4-2.7 2.7 0 4.7.8 6.2 2.3 1.4 1.5 2.2 3.8 2.2 6.6v3h-11c0 1.1.4 2 1.1 2.6.6.7 1.6 1 2.7 1s2.1-.1 2.9-.3c.9-.2 1.9-.6 2.9-1.1v4.9c-1 .5-1.9.9-3 1.1-.9.1-2.1.2-3.5.2zm-.3-15.7c-.7 0-1.3.3-1.8.8s-.8 1.3-.8 2.4h5.2c0-.9-.3-1.7-.7-2.3-.5-.6-1.2-.9-1.9-.9zM72.5 3c0-1 .3-1.8.8-2.3.5-.5 1.3-.7 2.4-.7 1.1 0 2 .3 2.5.8S79 2 79 3c0 2-1.1 3-3.3 3-2.1 0-3.2-1-3.2-3zm6.3 24.5h-6.1V7.9h6.1v19.6zM90.7 22.5c.8 0 1.8-.2 2.9-.7v4.9c-.8.4-1.6.7-2.3.8-.7.2-1.6.3-2.6.3-2 0-3.5-.6-4.4-1.7-.9-1.1-1.4-2.8-1.4-5.1v-8h-2.1v-2.7l2.7-2.1L85 4h4v3.9h4.3V13H89v7.6c0 1.2.6 1.9 1.7 1.9z"/></g></symbol><symbol id="tumblr" viewBox="0 0 30 30"><path d="M16.72 8.75V2.812h-3.855c-.105.21-.105.52-.105.73 0 .104-.104.208-.104.312-.417 2.292-1.562 3.75-3.542 4.583-.52.313-1.04.313-1.666.313v4.792h2.812V24.272c.312 2.916 1.875 4.688 4.688 5.312 1.146.312 2.292.416 3.542.416 1.562 0 3.02-.312 4.582-.834V23.54c-.938.313-1.666.522-2.395.73-1.355.417-2.5.105-3.438-.73-.106-.103-.21-.31-.313-.52-.105-.73-.21-1.458-.21-2.187V13.54h6.147V8.75H16.72z"/></symbol><symbol id="twitter" viewBox="0 0 29.7 24"><path d="M28.3 3.4c-.1 0-.3.1-.4.1-.8.2-.9-.1-.3-.7.3-.3.5-.6.7-.9.5-.7.1-1.1-.7-.7l-.9.3c-.8.3-2-.1-2.7-.6-.9-.6-2-.9-3.2-.9-1.7 0-3.1.6-4.2 1.8-1.2 1.2-1.8 2.6-1.8 4.3v.7c0 .4-.6.7-1.5.5-1.7-.3-3.5-.8-5.2-1.7-1.6-.9-3.1-2-4.4-3.3-.6-.6-1.4-.6-1.6.3-.1.5-.2 1-.2 1.6 0 1 .2 2 .7 2.9.2.4.5.8.8 1.2.6.6.5.9-.3.7-.7-.2-1.3-.5-1.3-.5 0 1.5.5 2.7 1.4 3.8.6.7 1.2 1.2 1.9 1.6.8.4 1.1.6.7.7-.3 0-.5.1-.8.1h-.6c-.3 0-.4.6.1 1.4.5.5.9 1 1.5 1.5s1.2.8 1.9 1c.8.2 1 .7.3 1.1-1.8 1.1-3.9 1.7-6.1 1.7h-.7c-.4 0-.1.3.6.7C4.4 23.3 7 24 9.8 24c2.1 0 4.1-.3 6-1 1.9-.7 3.5-1.6 4.8-2.7 1.3-1.1 2.5-2.5 3.4-3.9 1-1.5 1.7-3 2.1-4.7.5-1.6.7-3.2.7-4.9v-.4c0-.2.6-.8 1.2-1.4.3-.3.6-.6.8-.9.6-.6.4-1-.5-.7z"/></symbol></svg>
+</div>
+<header class="main-header">
+	<a href="http://www.takeitapp.co/en">
+		<svg class="icon takeit-logo">  <use xlink:href="#takeit-logo""></use></svg>
+	</a>
+
+	<span class="menu-button">
+		<i></i>
+		<i></i>
+		<i></i>
+		<i></i>
+	</span>
+
+	<div class="langs">
+		<a href="http://www.takeitapp.co/fr" class="" target="_self">FR</a>
+		/
+		<a href="http://www.takeitapp.co/en" class="active" target="_self">EN</a>
+	</div>
+</header>
+
+<nav class="main-nav">
+	<div class="background"></div>
+	<ul class="nav-items">
+		<li><a href="http://www.takeitapp.co/en/application">Discover the application</a></li>
+		<li><a href="https://itunes.apple.com/en/app/take-it-lapplication-sociale/id597384668?l=fr&amp;ls=1&amp;mt=8" target="_blank">Download the app</a></li>
+		<li><a href="http://www.takeitapp.co/en/availability">Availability</a></li>
+		<li><a href="http://www.takeitapp.co/en/brands">Brands</a></li>
+		<li><a href="mailto:hi@takeitapp.co" target="_blank">Contact Us</a></li>
+
+
+		<li><a href="http://www.takeitapp.co/en/terms-conditions">Terms &amp; Conditions</a></li>
+	</ul>
+
+	
+	<ul class="social-links">
+				
+		<li><a href="https://www.facebook.com/takeitapp.co" class="facebook" target="_blank">
+			<svg class="icon facebook">  <use xlink:href="#facebook""></use></svg>
+		</a></li>
+				
+		<li><a href="https://instagram.com/takeitapp/" class="instagram" target="_blank">
+			<svg class="icon instagram">  <use xlink:href="#instagram""></use></svg>
+		</a></li>
+				
+		<li><a href="https://twitter.com/takeitapp" class="twitter" target="_blank">
+			<svg class="icon twitter">  <use xlink:href="#twitter""></use></svg>
+		</a></li>
+			</ul>
+</nav>
+<div class="nav-overlay"></div>
+
+<section class="page-container">
+	<div class="ajaxContainer" id="part-home">
+	
+
+<section class="screens-container">
+
+	<!-- —————————————————————————————————————————o—————————————————————————————————————————o Screen 1 -->
+
+	<div class="screen">
+		<div class="content">
+			<h1>Your prints for free</h1>
+			<h2>Your best iPhone photos printed for free.</h2>
+			<a href="https://itunes.apple.com/en/app/take-it-lapplication-sociale/id597384668?l=fr&amp;ls=1&amp;mt=8" class="appstore-link" target="_blank">
+				<img src="http://www.takeitapp.co/assets/medias/button-apple-store-en.png" width="168" height="50"/>
+			</a>
+		</div>
+
+		<div class="front-shapes">
+			<div class="big-rectangle">
+				<div class="border top"></div>
+				<div class="border bottom"></div>
+				<div class="border left"></div>
+				<div class="border right"></div>
+			</div>
+		</div>
+
+		<div class="intro-shapes shapes"></div>
+	</div>
+
+	<!-- —————————————————————————————————————————o—————————————————————————————————————————o Screen 2 -->
+
+	<div class="screen">
+		<div class="content">
+			<h3>Every month, 5 free prints</h3>
+			<h4>Select from your Albums or the photos sent by your friends on the app.</h4>
+		</div>
+
+		<div class="iphone-container">
+			<img src="/assets/medias/iphone-blue.png" class="iphone" />
+			<video width="262" height="465" loop>
+				<source src="/assets/medias/free/videos/free-polaroids.webm" type="video/webm" />
+				<source src="/assets/medias/free/videos/free-polaroids.mp4" type="video/mp4" />
+				<source src="/assets/medias/free/videos/free-polaroids.ogg" type="video/ogg" />
+			</video>
+		</div>
+
+		<div class="buildings">
+			<svg class="icon buildings-1">  <use xlink:href="#buildings-1""></use></svg>
+			<svg class="icon buildings-1">  <use xlink:href="#buildings-1""></use></svg>
+			<svg class="icon buildings-2">  <use xlink:href="#buildings-2""></use></svg>
+			<svg class="icon buildings-2">  <use xlink:href="#buildings-2""></use></svg>
+		</div>
+
+		<div class="clouds">
+			<svg class="icon cloud-1">  <use xlink:href="#cloud-1""></use></svg>
+			<svg class="icon cloud-2">  <use xlink:href="#cloud-2""></use></svg>
+			<svg class="icon cloud-3">  <use xlink:href="#cloud-3""></use></svg>
+			<svg class="icon cloud-1">  <use xlink:href="#cloud-1""></use></svg>
+			<svg class="icon cloud-2">  <use xlink:href="#cloud-2""></use></svg>
+			<svg class="icon cloud-3">  <use xlink:href="#cloud-3""></use></svg>
+		</div>
+
+		<div class="stars"></div>
+
+	</div>
+
+	<!-- —————————————————————————————————————————o—————————————————————————————————————————o Screen 3 -->
+
+	<div class="screen">
+		<div class="content">
+			<div class="mask">
+				<h3>We print your photos in a professional lab</h3>
+				<h4>Take it prints are 3.55 x 3.95&quot;. They’ll remind you the timeless Polaroid prints. Your message is printed at the back of your prints.</h4>
+			</div>
+		</div>
+
+	</div>
+
+	<!-- —————————————————————————————————————————o—————————————————————————————————————————o Screen 4 -->
+
+	<div class="screen">
+		<div class="content">
+			<h3>Shipping all around the world</h3>
+			<h4>We deliver you prints worldwide. If you live in France (lucky you), the shipping is free! Only $2.99 for the rest of the world.</h4>
+		</div>
+
+		<div class="landscape">
+
+			<div class="ground"></div>
+
+			<div class="buildings">
+				<svg class="icon buildings-1">  <use xlink:href="#buildings-1""></use></svg>
+			</div>
+
+			<div class="clouds">
+				<svg class="icon cloud-1">  <use xlink:href="#cloud-1""></use></svg>
+				<svg class="icon cloud-2">  <use xlink:href="#cloud-2""></use></svg>
+				<svg class="icon cloud-3">  <use xlink:href="#cloud-3""></use></svg>
+			</div>
+
+			<div class="trees">
+				<div class="tree"><div class="sides"></div></div>
+				<div class="tree"><div class="sides"></div></div>
+				<div class="tree"><div class="sides"></div></div>
+				<div class="tree"><div class="sides"></div></div>
+				<div class="tree"><div class="sides"></div></div>
+				<div class="tree"><div class="sides"></div></div>
+			</div>
+
+			<div class="truck">
+				<div class="truck-body">
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42.476 17.5" enable-background="new 0 0 42.476 17.5" xml:space="preserve"><g><path fill="#222728" d="M32.851,0v3.5h5.469l1.969,7l2.188,1.312V17.5h-3.404c-0.139-1.533-1.426-2.734-2.994-2.734s-2.855,1.202-2.994,2.734H15.351L17.538,0H32.851z"/><polygon fill="#FFFFFF" points="37.663,5.25 33.726,5.25 33.726,10.719 38.976,10.719 "/><g opacity="0.12"><g><defs><rect id="SVGID_1_" x="34.286" y="5.25" width="3.785" height="5.469"/></defs><clipPath id="SVGID_2_"><use xlink:href="#SVGID_1_" overflow="visible"/></clipPath><polygon clip-path="url(#SVGID_2_)" fill="#383938" points="38.071,6.949 36.821,10.719 34.286,10.719 36.099,5.25 37.663,5.25 "/></g></g><path fill="#2D3F50" d="M0,14.875V17.5h5.302c0.138-1.531,1.425-2.734,2.994-2.734s2.856,1.202,2.994,2.734h21.522v-14V0H0v3.062v1.094v9.625"/><path fill="#222728" d="M3.921,15.969L5.56,14.02c0.244-0.29,0.603-0.458,0.982-0.458h3.667c0.428,0,0.828,0.213,1.066,0.569l1.232,1.837h19.305l1.531-1.749c0.243-0.279,0.596-0.438,0.965-0.438h3.462c0.367,0,0.717,0.157,0.96,0.432l1.559,1.756h2.188V17.5h-3.404c-0.139-1.533-1.426-2.734-2.994-2.734s-2.855,1.202-2.994,2.734h-0.232h-17.5H11.29c-0.139-1.533-1.425-2.734-2.994-2.734S5.44,15.967,5.302,17.5H0.038v-1.531H3.921z"/><path fill="#FFFFFF" d="M8.604,8.616c0.148,0,0.326-0.041,0.533-0.122v0.893c-0.148,0.071-0.29,0.122-0.424,0.151c-0.134,0.03-0.292,0.045-0.472,0.045c-0.37,0-0.636-0.1-0.8-0.302C7.277,9.08,7.196,8.771,7.196,8.353V6.891H6.81V6.393L7.3,6.007l0.285-0.745h0.721v0.711h0.783v0.917H8.306v1.381C8.306,8.501,8.405,8.616,8.604,8.616"/><path fill="#FFFFFF" d="M11.603,9.521l-0.211-0.47h-0.023c-0.148,0.205-0.299,0.345-0.454,0.42c-0.154,0.075-0.353,0.113-0.597,0.113c-0.3,0-0.537-0.101-0.71-0.301S9.35,8.801,9.35,8.438c0-0.378,0.118-0.659,0.355-0.844c0.236-0.185,0.579-0.289,1.028-0.312l0.533-0.019v-0.05c0-0.292-0.13-0.438-0.389-0.438c-0.233,0-0.528,0.087-0.887,0.263L9.671,6.23c0.372-0.213,0.841-0.319,1.408-0.319c0.41,0,0.726,0.113,0.951,0.338c0.225,0.226,0.336,0.541,0.336,0.946v2.327H11.603z M10.786,8.719c0.133,0,0.248-0.047,0.342-0.141c0.095-0.094,0.142-0.216,0.142-0.366V7.937l-0.253,0.013c-0.362,0.015-0.543,0.163-0.543,0.444C10.474,8.611,10.578,8.719,10.786,8.719"/><path fill="#FFFFFF" d="M14.01,7.526c0.133-0.236,0.247-0.419,0.341-0.551l0.715-1.002h1.228l-1.106,1.509l1.178,2.039h-1.259L14.407,8.25L14.05,8.553v0.968h-1.107V4.648h1.107v1.917c0,0.328-0.021,0.648-0.062,0.961H14.01z"/><path fill="#FFFFFF" d="M18.113,9.584c-0.531,0-0.944-0.157-1.238-0.472c-0.294-0.314-0.44-0.761-0.44-1.342c0-0.599,0.136-1.059,0.408-1.379c0.272-0.32,0.66-0.48,1.166-0.48c0.48,0,0.852,0.139,1.114,0.418c0.262,0.279,0.394,0.68,0.394,1.204v0.545h-1.97c0.008,0.198,0.073,0.354,0.196,0.466s0.29,0.169,0.502,0.169c0.193,0,0.372-0.021,0.534-0.062c0.163-0.041,0.339-0.11,0.528-0.208v0.88c-0.173,0.098-0.352,0.166-0.535,0.204S18.368,9.584,18.113,9.584 M18.048,6.744c-0.129,0-0.237,0.045-0.324,0.136c-0.088,0.091-0.139,0.233-0.154,0.427h0.947c-0.004-0.171-0.048-0.308-0.131-0.41C18.302,6.795,18.189,6.744,18.048,6.744"/><path fill="#FFFFFF" d="M19.942,5.09c0-0.184,0.047-0.321,0.139-0.41c0.092-0.09,0.24-0.135,0.445-0.135c0.204,0,0.354,0.046,0.447,0.138s0.141,0.228,0.141,0.407c0,0.359-0.195,0.538-0.588,0.538C20.138,5.628,19.942,5.449,19.942,5.09 M21.073,9.521h-1.102V5.973h1.102V9.521z"/><path fill="#FFFFFF" d="M23.231,8.616c0.148,0,0.326-0.041,0.533-0.122v0.893c-0.148,0.071-0.29,0.122-0.424,0.151c-0.135,0.03-0.292,0.045-0.473,0.045c-0.369,0-0.637-0.1-0.8-0.302c-0.163-0.201-0.245-0.511-0.245-0.928V6.891h-0.386V6.393l0.49-0.385l0.284-0.745h0.721v0.711h0.783v0.917h-0.783v1.381C22.933,8.501,23.032,8.616,23.231,8.616"/></g></svg>
+				</div>
+				<div class="wheels">
+					<span></span>
+					<span></span>
+				</div>
+				<div class="trails">
+					<div class="mask"><span></span></div>
+					<div class="mask"><span></span></div>
+					<div class="mask"><span></span></div>
+				</div>
+			</div>
+		</div>
+
+		<div class="letter">
+			<div class="letter-background"></div>
+			<img src="/assets/medias/free/letter-front.png" class="letter-front" />
+			<div class="letter-top">
+				<img src="/assets/medias/free/letter-top-inside.png" class="letter-top-inside" />
+				<img src="/assets/medias/free/letter-top-outside.png" class="letter-top-outside" />
+			</div>
+		</div>
+	</div>
+
+	<!-- —————————————————————————————————————————o—————————————————————————————————————————o Screen 5 -->
+
+	<div class="screen">
+		<div class="content">
+			<h3>Win more prints!</h3>
+			<h4>Enter the game! Share your best photos with your friends on the app. The more popular they are, the more prints you win!</h4>
+		</div>
+
+		<div class="landscape">
+
+			<div class="clouds">
+				<svg class="icon cloud-1">  <use xlink:href="#cloud-1""></use></svg>
+				<svg class="icon cloud-2">  <use xlink:href="#cloud-2""></use></svg>
+				<svg class="icon cloud-3">  <use xlink:href="#cloud-3""></use></svg>
+			</div>
+
+			<div class="buildings">
+				<svg class="icon buildings-1">  <use xlink:href="#buildings-1""></use></svg>
+				<svg class="icon cloud-1">  <use xlink:href="#cloud-1""></use></svg>
+				<svg class="icon cloud-2">  <use xlink:href="#cloud-2""></use></svg>
+			</div>
+			
+			<div class="trees">
+				<div class="tree"><div class="sides"></div></div>
+				<div class="tree"><div class="sides"></div></div>
+				<div class="tree"><div class="sides"></div></div>
+				<div class="tree"><div class="sides"></div></div>
+				<div class="tree"><div class="sides"></div></div>
+			</div>
+
+			<div class="house">
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.873 23.719" enable-background="new 0 0 29.873 23.719" xml:space="preserve" data-keep="true"><g><rect x="4.457" y="3.112" fill="#354457" width="3.297" height="4.769"/><polygon fill="#FFFFFF" points="14.937,-0.02 0,10.884 2.396,10.884 2.396,23.719 27.183,23.719 27.183,10.884 29.873,10.884 "/><g opacity="0.07"><g><defs><rect id="SVGID_1_" y="-0.034" width="14.937" height="23.662"/></defs><clipPath id="SVGID_2_"><use xlink:href="#SVGID_1_" overflow="visible"/></clipPath><polygon clip-path="url(#SVGID_2_)" fill="#010101" points="2.396,10.884 2.396,23.628 14.937,0.116 14.937,-0.034 0,10.884 "/></g></g><polygon fill="#354457" points="14.937,-0.027 0,10.884 0.926,10.884 15.447,0.349 "/><polygon fill="#425468" points="14.912,0.745 28.893,10.884 29.873,10.884 14.937,-0.023 "/><path fill="#6A9ED4" d="M10.931,11.888c0-2.048,1.66-3.708,3.707-3.708c2.048,0,3.707,1.66,3.707,3.708"/><rect x="11.051" y="14.18" fill="#D58F68" width="7.183" height="9.539"/><path fill="#8A573E" d="M16.399,19.301c0,0.269,0.218,0.486,0.486,0.486s0.486-0.218,0.486-0.486s-0.218-0.486-0.486-0.486S16.399,19.032,16.399,19.301"/></g></svg>
+			</div>
+
+			<div class="postal-box">
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 107.333 272.333" enable-background="new 0 0 107.333 272.333" xml:space="preserve"><rect x="43.538" y="48.333" fill="#6D3215" width="18" height="224"/><rect x="52.538" y="48.333" fill="#331A10" width="9" height="224"/><polygon fill="#E8E8E8" points="39.537,99.333 66.537,99.333 73.205,92.333 32.537,92.333 "/><path fill="#E8E8E8" d="M105.041,53.861C104.93,25.863,82.142,3.293,53.974,3.293c-28.237,0-51.083,22.569-51.083,51.784l0.147,0.103v37.653h102V53.962L105.041,53.861z"/><path fill="none" stroke="#B0B0B0" stroke-width="5" stroke-miterlimit="10" d="M105.041,53.861C104.93,25.863,82.142,3.293,53.974,3.293c-28.237,0-51.083,22.569-51.083,51.784l0.147,0.103v37.653h102V53.962L105.041,53.861z"/><rect x="24.538" y="56.333" fill="#2E5676" width="57" height="18"/><g opacity="0.44"><g><defs><rect id="SVGID_1_" x="23.7" y="56.333" width="59" height="9.333"/></defs><clipPath id="SVGID_2_"><use xlink:href="#SVGID_1_" overflow="visible"/></clipPath><polygon clip-path="url(#SVGID_2_)" fill="#353635" points="23.704,65.622 25.037,56.558 81.537,56.334 82.704,65.667 "/></g></g><polygon fill="#B0B0B0" points="84.537,62.333 21.537,62.333 24.537,56.333 81.537,56.333 "/></svg>
+			</div>
+
+			<div class="ground"></div>
+
+		</div>
+
+		<div class="iphone-container">
+			<img src="/assets/medias/iphone-red.png" class="iphone" />
+			<video width="262" height="465" loop>
+				<source src="/assets/medias/free/videos/more-polaroids.webm" type="video/webm" />
+				<source src="/assets/medias/free/videos/more-polaroids.mp4" type="video/mp4" />
+				<source src="/assets/medias/free/videos/more-polaroids.ogg" type="video/ogg" />
+			</video>
+		</div>
+
+	</div>
+
+
+	<div class="pics-container">
+		<div class="state-3-translate">
+			<div class="pics">
+				<div class="pic"><div class="pic-state-3"><div class="borders"><img src="/assets/medias/free/take-it-pola-1.jpg" /></div></div></div>
+				<div class="pic"><div class="pic-state-3"><div class="borders"><img src="/assets/medias/free/take-it-pola-2.jpg" /></div></div></div>
+				<div class="pic"><div class="pic-state-3"><div class="borders"><img src="/assets/medias/free/take-it-pola-3.jpg" /></div></div></div>
+				<div class="pic"><div class="pic-state-3"><div class="borders"><img src="/assets/medias/free/take-it-pola-4.jpg" /></div></div></div>
+				<div class="pic"><div class="pic-state-3"><div class="borders"><img src="/assets/medias/free/take-it-pola-5.jpg" /></div></div></div>
+				<div class="pic">
+					<div class="pic-state-3">
+						<div class="borders"><img src="/assets/medias/free/take-it-pola-6.jpg" /></div>
+						<div class="back">
+							<div class="text"><p>I love you Meghan!</p><strong>Maxime</strong></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<nav class="screens-nav">
+		<ul>
+			<li><span><i></i></span></li>
+			<li><span><i></i></span></li>
+			<li><span><i></i></span></li>
+			<li><span><i></i></span></li>
+			<li><span><i></i></span></li>
+		</ul>
+	</nav>
+
+
+	
+
+</section>
+
+	</div>
+
+	<footer class="main-footer">
+	<p class="copyright">© 2015 take it.</p>
+	<p class="links">
+		<a href="mailto:hi@takeitapp.co" target="_blank">Contact Us</a> |
+		<a href="http://www.takeitapp.co/en/terms-conditions">Terms &amp; Conditions</a>
+	</p>
+
+	
+	<ul class="social-links">
+				<li><a href="https://www.facebook.com/takeitapp.co" class="facebook" target="_blank">
+			<svg class="icon facebook">  <use xlink:href="#facebook""></use></svg>
+		</a></li>
+				<li><a href="https://instagram.com/takeitapp/" class="instagram" target="_blank">
+			<svg class="icon instagram">  <use xlink:href="#instagram""></use></svg>
+		</a></li>
+				<li><a href="https://twitter.com/takeitapp" class="twitter" target="_blank">
+			<svg class="icon twitter">  <use xlink:href="#twitter""></use></svg>
+		</a></li>
+			</ul>
+</footer>
+</section>
+<script>
+		
+	// -------------o Replace all src attributes by a data-src attribute to preload img
+
+	var imgs = document.getElementsByTagName("img");
+
+	for (var i = 0; i < imgs.length; i++){
+		var 
+			img = imgs[i],
+			src = img.src;
+
+		img.src = '';
+		img.setAttribute('data-src', src);
+	}
+
+
+	// -------------o Google Analytics 
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	
+	ga('create', 'UA-57449526-1', 'auto');
+	ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript" src="/assets/js/script.js"></script>
+</body>
+</html>
